@@ -6,7 +6,7 @@ comments: false
 tags: 理论 翻译 动画
 ---
 
-生活在基础设施的间隙中：通勤网络、广播电视与移动电话
+#### 生活在基础设施的间隙中：通勤网络、广播电视与移动电话
 
 注：本文是McGill大学东亚研究系学者Thomas Lamarre于2015年在*boundary 2*发表的论文。原标题为*[Living between Infrastructures: Commuter Networks, Broadcast TV, and Mobile Phones](https://www.academia.edu/16264416/Living_between_Infrastructures_Commuter_Networks_Broadcast_TV_and_Mobile_Phones)*。
 
