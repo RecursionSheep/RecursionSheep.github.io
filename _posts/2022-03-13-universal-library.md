@@ -54,15 +54,39 @@ By Andrew Hui
 
 正如尤斯特斯·利普修斯的 *De Bibliothecis*（1602）开篇所说的：「*bibliotheca* 这个词有三个含义：图书馆、书柜和藏书。」[13] 那么，一个关键的认识论问题就在于如何在封闭的空间内组织一系列藏书便于查找。作为一个机构，图书馆如何将数据（书籍）和元数据（索引）结合起来的？无论按什么顺序把书放在书架上，都可以称之为对知识的分类，而对知识分类就是在塑造世界。正如米歇尔·福柯和罗杰·夏蒂埃教导我们的，书籍的秩序就是知识的秩序。[14] 这正如安·布莱尔的结论：早期的现代人文主义者争先恐后地通过各种检索工具、目录和新式信息管理系统来推动书籍的快速发展。[15]
 
-莱布尼茨作为声名显赫的大图书馆的负责人，也面临着这个认识论的问题，即如何对数量不断增长的、无法预料的印刷品建立索引。他的目标是让曾经杂乱无章的藏书管理制度变得有效，使之成为一个既符合哲学理念又实用的系统。在17世纪，贵族图书馆是名副其实的德勒兹所说的褶皱（fold）的巴洛克装置（assemblage）——它的收藏原则错综复杂，主要取决于私人赞助者的个人爱好。瓦尔特·本雅明曾写道：「文艺复兴时期的人们探索宇宙，巴洛克时期的人们探索图书馆。人们将所有的思想奉献给了书籍。」[16] 与珍奇馆的古怪爱好相似，巴洛克图书馆的藏书通常在教义上是有限的，在哲学上是狭隘的，在科学上是陈旧的——这有悖于系统性的采购政策和缜密的学术研究所需的充足文献。[17]
+莱布尼茨作为声名显赫的大图书馆的负责人，也面临着这个认识论的问题，即如何对数量不断增长的、无法预料的印刷品建立索引。他的目标是让曾经杂乱无章的藏书管理制度变得有效，使之成为一个既符合哲学理念又实用的系统。在17世纪，贵族图书馆是名副其实的德勒兹所说的褶子（fold）的巴洛克装置（assemblage）——它的收藏原则错综复杂，主要取决于私人赞助者的个人爱好。瓦尔特·本雅明曾写道：「文艺复兴时期的人们探索宇宙，巴洛克时期的人们探索图书馆。人们将所有的思想奉献给了书籍。」[16] 与珍奇馆的古怪爱好相似，巴洛克图书馆的藏书通常在教义上是有限的，在哲学上是狭隘的，在科学上是陈旧的——这有悖于系统性的采购政策和缜密的学术研究所需的充足文献。[17]
 
-实际上，莱布尼茨的计划是把图书馆这个浮华的贵族身份象征变成一个理性的学术（*érudition*）机构。[18] 跟随着康拉德·格斯纳的脚步，莱布尼茨将巴洛克式的浮华驯服为某种意义上的古典秩序。他创建了按字典序排列的作者目录（*index nominalis*），以及主题目录（*index materiarum*）。在两位秘书的帮助下，他列出了整个图书馆的天文数字般的藏书，将它们剪裁、分类并粘贴成「列出了所有书籍的纸条，按内容和作者分类。」[19] 事实证明，这份目录经久不衰：直到二十世纪，它仍然是沃尔芬布特尔唯一的总目录。媒介理论家马库斯·克拉耶夫斯基（Markus Krajewski）说：莱布尼茨对编目历史的贡献就在于这些纸条。「与连续列表中线性排列的固定条目不同，纸条可以被看作自由移动的单元，并以全新的方式排列」（*P*，23页）。一张纸条可以是索引，作为「第一个指针……并包含了一个高度压缩的数据集，描述了需要查找的书的特征」（*P*，23页）。通过这种方法，知识的呈现方式变得有序，因为纸条提供了方便的访问捷径，从而带来了对知识整体的理解。实际上，目录既是工具，也是结构：它是关于知识本身的架构学的构成性要素。
+实际上，莱布尼茨的计划是把图书馆这个浮华的贵族身份象征变成一个理性的学术（*érudition*）机构。[18] 跟随着康拉德·格斯纳的脚步，莱布尼茨将巴洛克式的浮华驯服为某种意义上的古典秩序。他创建了按字典序排列的作者目录（*index nominalis*），以及主题目录（*index materiarum*）。在两位秘书的帮助下，他列出了整个图书馆的天文数字般的藏书，将它们剪裁、分类并粘贴成「列出了所有书籍的纸条，按内容和作者分类。」[19] 事实证明，这份目录经久不衰：直到二十世纪，它仍然是沃尔芬布特尔唯一的总目录。媒介理论家马库斯·克拉耶夫斯基说：莱布尼茨对编目历史的贡献就在于这些纸条。「与连续列表中线性排列的固定条目不同，纸条可以被看作自由移动的单元，并以全新的方式排列」（*P*，23页）。一张纸条可以是索引，作为「第一个指针……并包含了一个高度压缩的数据集，描述了需要查找的书的特征」（*P*，23页）。通过这种方法，知识的呈现方式变得有序，因为纸条提供了方便的访问捷径，从而带来了对知识整体的理解。实际上，目录既是工具，也是结构：它是关于知识本身的架构学的构成性要素。
 
 #### 人类的幸福
 
+莱布尼茨在职业生涯的早期就已经对他心中的理想图书馆有了清晰的概念。[20] 早在1680年，也就是他到沃尔芬布特尔任职之前，他就雄心勃勃地写道，图书馆「将会成为一部百科全书，也就是说，人们可以从它那里学到所有重要且实用的东西。」[21] 在这个意义上，莱布尼茨延续了亚历山大时期语文学者的梦想。他提出了一种理想的百科全书，不仅包括传统的三艺四术（trivium and quadrivium of the arts and sciences），还包括建筑学、光学、机械学、物理与化学、矿物学、植物与农学、生物与医学、伦理学、地缘政治学和自然神学。他写道：
+
+*为了人类的幸福，我们必须建立百科全书，或者说有秩序地收集真理。它会有益于万事万物，从而帮助我们推导出所有充分的真理。它会是一种公共宝库，人类发现和观察到的所有令人崇敬的知识都将归入其中。*[22]
+
+正如丹尼尔·塞尔瑟所解释的：「百科全书是一种全面的、生成性的文本，其分类结构不仅记录了人类的科学、思想、历史和文学成就，而且是一个生产和组织知识的哲学机器。」[23] 总而言之，秩序井然的图书馆是百科全书般的自然界的写照，继而也是完美宇宙的写照。
+
+这样，莱布尼茨的百科全书就从中世纪的认识论转向了早期现代的认识论。过去的百科全书，如文森特·德·博韦（Vincent de Beauvais）的 *Speculum maius* 或雷蒙·卢尔的 *Arbor scientiae*，都是单人编纂的，其目的只是为了展示知识体系的复杂结构。而现代的百科全书是一项横向的集体社会事业。换句话说，现代早期的知识组织形式，如后来的让·勒朗·达朗贝尔和德尼·狄德罗的大百科全书（*Encyclopedié*）所体现的那样，以人类主体的自我意识（cogito）而非神谕的训导为中心。[24]
+
+更重要的是，对莱布尼茨来说，百科全书式的图书馆是文教机构网络里的顶点，这个网络还包括艺术馆（*Kunstkammer*）、（合理化改革后的）珍奇馆、实验室和印刷厂。几十年来，莱布尼茨一直在倡导建立一个德国学术团体。[25] 早年，有一项未竟的计划叫作 *Nucleus Librarius Semestralis*（1668），该计划收集信件、日记和科学笔记中的重要节选，目的是建立一个世界图书馆。[26] 最后，所有这些出版物以及补充性的《世界地图册》（*Atlas Universalis*）将成为《世界百科全书》（*Encyclopaedia Universalis*）的组成部分。[27]
+
+从某种意义上说，莱布尼茨——在《神义论》和现实中的宏伟蓝图里——对世界图书馆的设想所怀抱的坚定乐观主义是一种必然，因为新知识的产生引发了争议。当时，知识的激增与《巴别塔图书馆》中的可怕场景相差不远。莱布尼茨寻求着万事万物的秩序，他的百科全书式的图书馆能够让枝繁叶茂的文人王国中的学者平静地追求广泛的学术分支——博物学（*polymathia*）、多史学（*polyhistoria*）、泛智论（*pansophism*）和文学史（*historia literaria*）。[28]
+
+#### 归还（restitution）与重复
+
+在数学的意义上，一个包含所有可能的书籍（因此也包含所有可能的历史和知识）的图书馆与莱布尼兹预定调和的世界紧密关联。那么，什么样的图书馆是最好的呢？1715年，即完成《神义论》五年后，莱布尼茨发表了一篇题目很奇特的短文，"*Apokatastasis panton*, La Restitution Universelle"。*Apokatastasis*在希腊语中意为重构或恢复，这个概念起源于斯多葛派和基督教的宇宙论。宇宙的运动定期往复，每当行星和恒星回到它们适当的位置时，宇宙就会发生一场天火，之后宇宙将重新开始，如此反复，无穷无尽。在使徒行传（Acts）中，彼得宣称耶稣「必须留在天堂，直到世界重新恢复」（Gk: *apokatastasis panton*, 3:21）。后来，从奥利金到尼萨的贵格利的神父们继承了这一信念，认为所有人类的灵魂，只有洗去罪恶，才能获得普遍的救赎。[29]
+
+莱布尼茨把这种神学——既是目的论的又是递归的——整合到数学演算法的框架中，而这又成为他的世界图书馆的结构性原则。他想为历史上每一个人做一本传记。
+
+莱布尼茨从字母的排列组合中得出一个公式，试图计算「所有可能的书的数量」。[30] 他将一本书可能的长度限制在有限的上界（不超过100,000,000个字母）（"AP"）。于是，他幻想出了一本包含所有书籍的书：
+
+*一本记载人类一年内在所有地方所有最微小的行为的书，当然是可能的。想象一下，地球上有十亿人（这与人类自诞生以来数量的总和相差甚远），而一本记载年度历史的书，长达一亿词，分配给每个人，讲述他生活中的一年，包括所有细枝末节的事。即使一年花费一万个小时，一张纸写下一万个字母，即一页有100行，每行有100个字母，仍不够描述人的每一小时。*（"AP"）
+
+
+
 （未完待续，缓慢翻译中）
 
-[1] G. W. Leibniz, *Theodicy: Essays on the Goodness of God, the Freedom of Man, and the Origin of Evil*, trans. E. M. Huggard, ed. Austin Farrer (La Salle, Ill., 1985), p. 370; hereafter abbreviated T. The French text is Leibniz, Essais de Théodicée sur la bonté de Dieu, la liberté del'homme et l'origine du mal, ed. Jacques Brunschwig (Paris, 1969).  
+[1] G. W. Leibniz, *Theodicy: Essays on the Goodness of God, the Freedom of Man, and the Origin of Evil*, trans. E. M. Huggard, ed. Austin Farrer (La Salle, Ill., 1985), p. 370; hereafter abbreviated *T*. The French text is Leibniz, Essais de Théodicée sur la bonté de Dieu, la liberté del'homme et l'origine du mal, ed. Jacques Brunschwig (Paris, 1969).  
 [2] See Margherita Palumbo, *Leibniz e la res bibliothecaria: Bibliografie, historiae literariae e cataloghi nella biblioteca privata leibniziana* (Rome, 1993), "Leibniz as Librarian," in *The Oxford Handbook of Leibniz*, ed. Maria Rosa Antognazza (New York, 2015), pp. 609–19; Ulrike Steierwald, *Wissen und System: Zu Gottfried Wilhelm Leibniz' Theorie einer Universalbibliothek* (Cologne, 1995); and L. M. Newman, Leibniz (1646–1716) and the German Library Scene (London, 1966). Much of these discussions are latent in Louis Couturat, *La Logique de Leibniz: d'après des documents inédits* (Paris, 1901).  
 [3] For some speculative theories of the library, see William Marx, *Vivre dans la bibliothèque du monde* (Paris, 2020) and follow his 2020–2021 course, "Les bibliothèque invisible," at the Collège de France, www.college-de-france.fr/site/william-marx/p51417994721090500_content.htm; Jeffrey T. Schnapp and Matthew Battles, *The Library Beyond the Book* (Cambridge, Mass., 2017); and Alberto Manguel, *The Library at Night* (New Haven, Conn., 2008).  
 [4] See Arnaud Pelletier, "The Scientia Generalis and the Encyclopaedia," in The *Oxford Handbook of Leibniz*, pp. 162–76.  
@@ -80,4 +104,16 @@ By Andrew Hui
 [16] Walter Benjamin, *The Origin of German Tragic Drama*, trans. John Osborne (New York, 1998), p. 140. For more on Benjamin and libraries, see Michael Taussig, "Unpacking My Library: An Experiment in the Technique of Awakening," Critical Inquiry 46 (Winter 2020): 421–35.  
 [17] See Jeffrey Garrett, "The Legacy of the Baroque in Virtual Representations of Library Space," *Library Quarterly* 74 (Jan. 2004): 42–62.  
 [18] See H. G. Schulte-Albert, "Gottfried Wilhelm Leibniz and Library Classification," *Journal of Library History* 6 (Apr. 1971): 133–52.  
-[19] Markus Krajewski, *Paper Machines: About Cards and Catalogs, 1548–1929*, trans. Peter Krapp (Cambridge, Mass., 2011), p. 22; hereafter abbreviated P.  
+[19] Markus Krajewski, *Paper Machines: About Cards and Catalogs, 1548–1929*, trans. Peter Krapp (Cambridge, Mass., 2011), p. 22; hereafter abbreviated *P*.  
+[20] See Antognazza, "A Universal Genius as Librarian," in *Leibniz*, pp. 195–280.  
+[21] Quoted in Palumbo, "Leibniz as Librarian," p. 612.  
+[22] Quoted in Pelletier, "The Scientia Generalis and the Encyclopaedia," p. 163.  
+[23] Daniel Selcer, *Philosophy and the Book: Early Modern Figures of Material Inscription* (New York, 2010), pp. 63–64. Selcer explores how Leibniz is in dialogue with Lorenzo Valla's *Dialogue on Free Will* and Boethius's *Consolation of Philosophy*; see pp. 22–57.  
+[24] See Mary Franklin-Brown, *Reading the World: Encyclopedic Writing in the Scholastic Age* (Chicago, 2012); Richard Yeo, *Encyclopaedic Visions: Scientiﬁc Dictionaries and Enlightenment Culture* (New York, 2001); Cesare Vasoli, *L'enciclopedismo del seicento* (Naples, 1978); and Helmut Zedelmaier, *Bibliotheca universalis und Biliotheca selecta: Das Problem des gelehrten Wissens in der frühen Neuzeit* (Cologne, 1992).  
+[25] See Ayval Ramati, "Harmony at a Distance: Leibniz's Scientific Academies," *ISIS 87* (Sept. 1996): 430–52.  
+[26] See Hans Widmann, "Leibniz und sein Plan zu einem Nucleus Librarius," *Archiv für Geschichte des Buchwesens* 4 (1963): 621–36.  
+[27] See Antognazza, *Leibniz*, p. 239.  
+[28] See Anthony Grafton, "The World of the Polyhistors: Humanism and Encyclopaedism," in *Bring Out Your Dead: The Past as Revelation* (Cambridge, Mass., 2001), pp. 166–80, and Schmidt-Biggemann, *Topica Universalis*.  
+[29] See Ilaria L. E. Ramelli, *The Christian Doctrine of Apokatastasis: A Critical Assessment from the New Testament to Eriugena* (Leiden, 2013).  
+[30] Leibniz, "Apokatastasis panton," trans. David Forman, philarchive.org/archive/LEIAPA-4; hereafter abbreviated "AP."  
+[31] See Umberto Eco, *From the Tree to the Labyrinth: Historical Studies on the Sign and Interpretation*, trans. Anthony Oldcorn (Cambridge, Mass., 2014), p. 46. *Ars combinatoria* has its origins in thirteenth-century Catalan mathematician and theologian Llull. See Ramon Llull, "Ars brevis," in *Doctor Illuminatus: A Roman Llull Reader*, trans. and ed. Anthony Bonner (Princeton, N.J., 1993), pp. 289–364.  
